@@ -19,9 +19,18 @@ Es más que un simple script: es una herramienta de administración del entorno 
 
 ## Instalacion
 - Clonar el repositorio
+<<<<<<< HEAD
 
 git clone https://github.com/sukigsx/ManagerAliasFuncionesBashrc.git
 
 - Tambien puedes utilizar mi script (ejecutar_escript), en el cual puedes instalar todos mis script del repositorio.
 
 git clone https://github.com/sukigsx/ejecutar_scripts.git
+=======
+
+``git clone https://github.com/sukigsx/ManagerAliasFuncionesBashrc.git``
+
+- Tambien puedes utilizar mi script (ejecutar_escript), en el cual puedes instalar todos mis script del repositorio.
+
+git clone https://github.com/sukigsx/ejecutar_scripts.git  
+>>>>>>> 3c263decbaa8d01880bf12f60723db60e4e7a555
