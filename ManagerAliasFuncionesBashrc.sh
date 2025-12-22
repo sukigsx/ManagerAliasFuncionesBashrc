@@ -11,7 +11,7 @@
 export NombreScript="ManagerAliasFuncionesBashrc"
 export DescripcionDelScript="Herramienta de creacios de alias y funciones para tu bashrc"
 export Correo="scripts@mbbsistemas.com"
-export Web="https://github.com/sukigsx?tab=repositories"
+export Web="https://repositorio.mbbsistemas.es/"
 export version="1.0"
 conexion="Sin comprobar"
 software="Sin comprobar"
